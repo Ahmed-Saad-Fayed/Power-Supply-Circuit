@@ -1,7 +1,7 @@
--Power-Supply-Circuit
+#🔌 Power Supply Circuit Project
 This project demonstrates a dual-output regulated power supply using two voltage regulators: 7809 (9V output) and 7805 (5V output).
 
-⚙️ Circuit Description
+##⚙️ Circuit Description
 TR1 (Transformer): Steps down the AC voltage from the mains to a suitable level for the rectifier.
 
 BR1 (Bridge Rectifier): Converts AC to pulsating DC.
@@ -18,7 +18,7 @@ D1, D2 (LEDs with R1, R2): Indicate the presence of output voltages (visual stat
 
 Output Load: Connected to test the 5V and 9V outputs.
 
-💡 Features
+##💡 Features
 Dual voltage output: +9V and +5V.
 
 LEDs for output indication.
@@ -27,7 +27,7 @@ Noise filtering and voltage smoothing.
 
 Simple and effective linear regulated power supply.
 
-🧪 Tools Used
+##🧪 Tools Used
 Proteus: For circuit simulation and testing.
 
 Electronic Components: Transformer, bridge rectifier, voltage regulators, capacitors, resistors, LEDs.
