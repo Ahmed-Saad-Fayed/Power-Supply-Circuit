@@ -1,4 +1,5 @@
 #🔌 Power Supply Circuit Project
+
 This project demonstrates a dual-output regulated power supply using two voltage regulators: 7809 (9V output) and 7805 (5V output).
 
 ##⚙️ Circuit Description
